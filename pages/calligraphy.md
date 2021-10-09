@@ -2,9 +2,10 @@
 layout: page
 title: Calligraphy
 ---
-[Calligraphic Writing]()
-[Calligraphic Drawing]()
-[Calligraohic Painting]()
+## Sections
+[Calligraphic Writing]()<br />
+[Calligraphic Drawing]()<br />
+[Calligraohic Painting]()<br />
 
 ## Calligraphy Writing Archive
 This section will be for calligraphic writing, such as with a dip or fountain pen. Or with a Sumi brush.

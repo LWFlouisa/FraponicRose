@@ -14,6 +14,6 @@ These is the expanded archival pages of Fraponic Rose, or "Os Sufuraponicos Di E
 [Learn Fraponic Archive](https://lwflouisa.github.io/FraponicRose/pages/fraponic)<br />
 [Memoirs Archive](https://lwflouisa.github.io/FraponicRose/pages/memoirs)<br />
 [Music Archive](https://lwflouisa.github.io/FraponicRose/pages/music)<br />
-[Apocalyptic Photography Archive](https://lwflouisa.github.io/FraponicRose/pages/apocalypticphotography)<br />
+[Post Apocalyptic Photography Archive](https://lwflouisa.github.io/FraponicRose/pages/apocalypticphotography)<br />
 [Poetry Archive](https://lwflouisa.github.io/FraponicRose/pages/poetry)<br />
 [Ethnic Recipe Archive](https://lwflouisa.github.io/FraponicRose/pages/recipes)<br />
